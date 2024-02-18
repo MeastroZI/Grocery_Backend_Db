@@ -1,0 +1,568 @@
+{
+  "type": "Fruit",
+  "item": "Apple",
+  "varient": "Golden-Delicious",
+  "information": "Title: Apple Golden Delicious Class 1 \nCountry and volume: Italy, ca 180g \nDescription: Golden Delicious has a white juicy pulp and a greenish yellow shell. The taste is mellow and sweet, making Golden Delicious suitable for desserts.\nURL: https://www.hemkop.se/produkt/apple-Golden-Delicious-Klass-1-100142141_KG\n",
+  "discription": "Golden Delicious has a white juicy pulp and a greenish yellow shell. The taste is mellow and sweet, making Golden Delicious suitable for desserts.\n",
+  "image_uri": "DataDb/Fruit/Apple/Golden-Delicious/Golden-Delicious_Iconic.jpg"
+}{
+  "type": "Fruit",
+  "item": "Apple",
+  "varient": "Granny-Smith",
+  "information": "﻿Title: Apple Granny Smith Class 1 \nCountry and volume: Italy, ca 180g \nDescription: Granny Smith is a green apple with white, firm pulp and a clear acidity in the flavor.\nURL: https://www.hemkop.se/produkt/apple-Granny-Smith-Klass-1-100142221_KG\n",
+  "discription": "Granny Smith is a green apple with white, firm pulp and a clear acidity in the flavor.\n",
+  "image_uri": "DataDb/Fruit/Apple/Granny-Smith/Granny-Smith_Iconic.jpg"
+}{
+  "type": "Fruit",
+  "item": "Apple",
+  "varient": "Pink-Lady",
+  "information": "Title: Apple Pink Lady Klass 1 \nCountry and volume: Italy, ca 180g \nDescription: Pink Lady reminds of Royal Gala, though it is an even sweeter and crispier apple.\nURL: https://www.hemkop.se/produkt/apple-Pink-Lady-Klass-1-100144318_KG\n",
+  "discription": "Pink Lady reminds of Royal Gala, though it is an even sweeter and crispier apple.\n",
+  "image_uri": "DataDb/Fruit/Apple/Pink-Lady/Pink-Lady_Iconic.jpg"
+}{
+  "type": "Fruit",
+  "item": "Apple",
+  "varient": "Red-Delicious",
+  "information": "Title: Apple Red Delicious Klass 1 \nCountry and volume: Italy, ca 160g \nDescription: Red Delicious is a dark red apple with relatively soft pulp and sweet taste.\nURL: https://www.hemkop.se/produkt/apple-Red-Delicious-Klass-1-100144336_KG\n",
+  "discription": "Red Delicious is a dark red apple with relatively soft pulp and sweet taste.\n",
+  "image_uri": "DataDb/Fruit/Apple/Red-Delicious/Red-Delicious_Iconic.jpg"
+}{
+  "type": "Fruit",
+  "item": "Apple",
+  "varient": "Royal-Gala",
+  "information": "Title: Apple Royal Gala Klass 1 \nCountry and volume: Argentina, ca 180g \nDescription: Royal Gala is a crispy and very juicy apple, with yellow-white pulp. The peel is thin with a red yellow speckled color.\nURL: https://www.hemkop.se/produkt/apple-Royal-Gala-Klass-1-100144504_KG\n",
+  "discription": "Royal Gala is a crispy and very juicy apple, with yellow-white pulp. The peel is thin with a red yellow speckled color.\n",
+  "image_uri": "DataDb/Fruit/Apple/Royal-Gala/Royal-Gala_Iconic.jpg"
+}{
+  "type": "Fruit",
+  "item": "Avocado",
+  "varient": "Avocado",
+  "information": "Title: Avocado Class 1 \nCountry: Peru \nDescription: Avocado is a fruit with a clear core in the middle. The pulp is light yellow and the peel may vary from light green to dark green, almost black. Avocado fits for starters, salads and as an ingredient in Guacamole.s\nURL: https://www.hemkop.se/produkt/Avocado-Klass-1-100151933_ST\n",
+  "discription": "Avocado is a fruit with a clear core in the middle. The pulp is light yellow and the peel may vary from light green to dark green, almost black. Avocado fits for starters, salads and as an ingredient in Guacamole.\n",
+  "image_uri": "DataDb/Fruit/Avocado/Avocado_Iconic.jpg"
+}{
+  "type": "Fruit",
+  "item": "Banana",
+  "varient": "Banana",
+  "information": "Title: Banana Ecological Class 1 \nCountry and volume: Ecuador, ca 180g \nDescription: An ecologically grown banana. Bananas are good as snacks. The banana is temperature sensitive, very sensitive to dehydration, ethylene and cold damage. Store in room temperature or cool, never in a refrigerator.\nURL: https://www.hemkop.se/produkt/Banan-Eko-Klass-1-100235247_KG\n",
+  "discription": "An ecologically grown banana. Bananas are good as snacks. The banana is temperature sensitive, very sensitive to dehydration, ethylene and cold damage. Store in room temperature or cool, never in a refrigerator.\n",
+  "image_uri": "DataDb/Fruit/Banana/Banana_Iconic.jpg"
+}{
+  "type": "Fruit",
+  "item": "Kiwi",
+  "varient": "Kiwi",
+  "information": "Title: Kiwi Class 1 \nCountry: Italy \nDescription: Kiwi, or Chinese currants, as it is also called, has a sweet taste with clear acidity. The fruit is rich in vitamin C.\nURL: https://www.hemkop.se/produkt/Kiwi-Klass-1-100180723_ST\n",
+  "discription": "Kiwi, or Chinese currants, as it is also called, has a sweet taste with clear acidity. The fruit is rich in vitamin C.\n",
+  "image_uri": "DataDb/Fruit/Kiwi/Kiwi_Iconic.jpg"
+}{
+  "type": "Fruit",
+  "item": "Lemon",
+  "varient": "Lemon",
+  "information": "Title: Lemon Class 1 \nCountry: Spain \nDescription: Lemon is used as a flavor in food and drinks and has a very tart and sour taste.\nURL: https://www.hemkop.se/produkt/Citron-Klass-1-100255117_ST\n",
+  "discription": "Lemon is used as a flavor in food and drinks and has a very tart and sour taste.\n",
+  "image_uri": "DataDb/Fruit/Lemon/Lemon_Iconic.jpg"
+}{
+  "type": "Fruit",
+  "item": "Lime",
+  "varient": "Lime",
+  "information": "Title: Lime Class 1 \nCountry: Brazil \nDescription: The lime fruit, like lemon, has sour taste, with the difference that the lime is more juicy and flavorsome than the lemon. It is mainly the juice you use but also the shell can be used.\nURL: https://www.hemkop.se/produkt/Lime-Klass-1-101200430_ST\n",
+  "discription": "The lime fruit, like lemon, has sour taste, with the difference that the lime is more juicy and flavorsome than the lemon. It is mainly the juice you use but also the shell can be used.\n",
+  "image_uri": "DataDb/Fruit/Lime/Lime_Iconic.jpg"
+}{
+  "type": "Fruit",
+  "item": "Mango",
+  "varient": "Mango",
+  "information": "Title: Mango Class 1 \nCountry: Mexico \nDescription: Mango has a fresh, powerful and sweet taste, but a special exotic shade. Inside there is a large, oval kernel in which the pulp is grown in. This makes the best way to cut mango is with the shell on. Divide the fruit by cutting along on both sides of the core. Mango can be eaten naturally or in desserts, entrees and main courses.\nURL: https://www.hemkop.se/produkt/Mango-Klass-1-101200548_ST\n",
+  "discription": "Mango has a fresh, powerful and sweet taste, but a special exotic shade. Inside there is a large, oval kernel in which the pulp is grown in. This makes the best way to cut mango is with the shell on. Divide the fruit by cutting along on both sides of the core. Mango can be eaten naturally or in desserts, entrees and main courses.\n",
+  "image_uri": "DataDb/Fruit/Mango/Mango_Iconic.jpg"
+}{
+  "type": "Fruit",
+  "item": "Melon",
+  "varient": "Cantaloupe",
+  "information": "Title: Melon Cantaloupe Class 1 \nCountry and volume: Spain, ca 1.05kg \nDescription: The cantaloupe melon is a rather small and all round sugar melon, with a greenish yellow mesh patterned shell. The pulp is orange colored with juicy and sweet taste.\nURL: https://www.hemkop.se/produkt/Melon-Cantaloupe-Klass-1-100256107_KG\n",
+  "discription": "The cantaloupe melon is a rather small and all round sugar melon, with a greenish yellow mesh patterned shell. The pulp is orange colored with juicy and sweet taste.\n",
+  "image_uri": "DataDb/Fruit/Melon/Cantaloupe/Cantaloupe_Iconic.jpg"
+}{
+  "type": "Fruit",
+  "item": "Melon",
+  "varient": "Galia-Melon",
+  "information": "Title: Galia melon Class 1 \nCountry and volume: Spain, ca 1.01kg \nDescription: Galia melon is a small round sugar melon with a yellowish green, orange, or light brown mesh patterned shell. The pulp is firm and juicy, with a cream white to yellowish green color and a sweet, rich flavor.\nURL: https://www.hemkop.se/produkt/Galiamelon-Klass-1-101242324_KG\n",
+  "discription": "Galia melon is a small round sugar melon with a yellowish green, orange, or light brown mesh patterned shell. The pulp is firm and juicy, with a cream white to yellowish green color and a sweet, rich flavor.\n",
+  "image_uri": "DataDb/Fruit/Melon/Galia-Melon/Galia-Melon_Iconic.jpg"
+}{
+  "type": "Fruit",
+  "item": "Melon",
+  "varient": "Honeydew-Melon",
+  "information": "Title: Honeydew melon Class 1 \nCountry and volume: Spain, ca 1.2kg \nDescription: Honeydew melon is an oval shaped sugarmelon, with a yellow shell. The pulp is creamy light yellow with juicy, sweet and fresh taste, which is milder than other melons.\nURL: https://www.hemkop.se/produkt/Honungsmelon-Klass-1-100256170_KG\n",
+  "discription": "Honeydew melon is an oval shaped sugarmelon, with a yellow shell. The pulp is creamy light yellow with juicy, sweet and fresh taste, which is milder than other melons.\n",
+  "image_uri": "DataDb/Fruit/Melon/Honeydew-Melon/Honeydew-Melon_Iconic.jpg"
+}{
+  "type": "Fruit",
+  "item": "Melon",
+  "varient": "Watermelon",
+  "information": "Title: Water melon Class 1 \nCountry and volume: Spain, ca 3kg \nDescription: Water melon juicier than sugar melons, and has a round peel with light green base color, with long-tied dark green stripes. The pulp is very juicy, mild and sweet, and occurs with and without kernels.\nURL: https://www.hemkop.se/produkt/Melon-Vatten-Klass-1-101273856_KG\n",
+  "discription": "Water melon juicier than sugar melons, and has a round peel with light green base color, with long-tied dark green stripes. The pulp is very juicy, mild and sweet, and occurs with and without kernels.\n",
+  "image_uri": "DataDb/Fruit/Melon/Watermelon/Watermelon_Iconic.jpg"
+}{
+  "type": "Fruit",
+  "item": "Nectarine",
+  "varient": "Nectarine",
+  "information": "Title: Nectarine Class 1 \nCountry and volume: Italy, ca 175g \nDescription: The nectarine is a stone fruit with plain peel and yellow or orange pulp, which is somewhat firmer than the peach. Nectarine is suitable for eating naturally but can also be used for pastry, marmalade and jam.\nURL: https://www.hemkop.se/produkt/Nektarin-Klass-1-101017668_KG\n",
+  "discription": "The nectarine is a stone fruit with plain peel and yellow or orange pulp, which is somewhat firmer than the peach. Nectarine is suitable for eating naturally but can also be used for pastry, marmalade and jam.\n",
+  "image_uri": "DataDb/Fruit/Nectarine/Nectarine_Iconic.jpg"
+}{
+  "type": "Fruit",
+  "item": "Orange",
+  "varient": "Orange",
+  "information": "Title: Orange Class 1 \nCountry and volume: Spain, ca 280g \nDescription: There are many different types of oranges that ripen and is sold during different parts of the year. The orange is a very important vitamin C source and the vitamins are best kept if the fruit is eaten naturally.\nURL: https://www.hemkop.se/produkt/Apelsin-Klass-1-101273786_KG\n",
+  "discription": "There are many different types of oranges that ripen and is sold during different parts of the year. The orange is a very important vitamin C source and the vitamins are best kept if the fruit is eaten naturally.\n",
+  "image_uri": "DataDb/Fruit/Orange/Orange_Iconic.jpg"
+}{
+  "type": "Fruit",
+  "item": "Papaya",
+  "varient": "Papaya",
+  "information": "Title: Papaya Class 1 \nCountry: Ecuador \nDescription: Papayan has a salmon-pink pulp that is buttery in the texture. The fruit is rich in vitamin A and C.\nURL: https://www.hemkop.se/produkt/Papaya-Klass-1-100181072_ST\n",
+  "discription": "Papayan has a salmon-pink pulp that is buttery in the texture. The fruit is rich in vitamin A and C.\n",
+  "image_uri": "DataDb/Fruit/Papaya/Papaya_Iconic.jpg"
+}{
+  "type": "Fruit",
+  "item": "Passion-Fruit",
+  "varient": "Passion-Fruit",
+  "information": "Title: Passion fruit Class 1 \nCountry: Colombia \nDescription: Passion fruit is a small, round or oval fruit with yellow or dark brownish purple dented shell. Passion fruit's interior consists of many small edible kernels surrounded by succulent pulp. The taste is rich and fresh, and reminiscent of raspberries and orange.\nURL: https://www.hemkop.se/produkt/Passionsfrukt-Klass-1-100257650_ST\n",
+  "discription": "Passion fruit is a small, round or oval fruit with yellow or dark brownish purple dented shell. Passion fruit's interior consists of many small edible kernels surrounded by succulent pulp. The taste is rich and fresh, and reminiscent of raspberries and orange.\n",
+  "image_uri": "DataDb/Fruit/Passion-Fruit/Passion-Fruit_Iconic.jpg"
+}{
+  "type": "Fruit",
+  "item": "Peach",
+  "varient": "Peach",
+  "information": "Title: Peach Class 1 \nCountry and volume: Italy, ca 175g \nDescription: Peach is a stone fruit with yellow or orange pulp and velvety shell. Suitable for eating naturally but can also be used for pastry, marmalade and jam.\nURL: https://www.hemkop.se/produkt/Persika-Klass-1-100257703_KG\n",
+  "discription": "Peach is a stone fruit with yellow or orange pulp and velvety shell. Suitable for eating naturally but can also be used for pastry, marmalade and jam.\n",
+  "image_uri": "DataDb/Fruit/Peach/Peach_Iconic.jpg"
+}{
+  "type": "Fruit",
+  "item": "Pear",
+  "varient": "Anjou",
+  "information": "Title: Pear Anjou \nCountry and volume: Argentina, ca 170g \nDescription: Anjou pear is a classic pear shaped with rounded stalk with a thin yellowish green shell. The pulp is juicy and has a sweet, nice taste. Anjou is an excellent table fruit that also fits in pastries, then rather unripe.\nURL: https://www.hemkop.se/produkt/Paron-Anjou-100139253_KG\n",
+  "discription": "Anjou pear is a classic pear shaped with rounded stalk with a thin yellowish green shell. The pulp is juicy and has a sweet, nice taste. Anjou is an excellent table fruit that also fits in pastries, then rather unripe.\n\n",
+  "image_uri": "DataDb/Fruit/Pear/Anjou/Anjou_Iconic.jpg"
+}{
+  "type": "Fruit",
+  "item": "Pear",
+  "varient": "Conference",
+  "information": "Title: Pear Conference Class 1 \nCountry and volume: The Netherlands, ca 200g \nDescription: Conference is a medium sized pear with long-tapered bottle like shape and a rounded base. To the color, the Conference pear is light greenish yellow with gold brown spots. Pears taste the most when they are really ripe. Suitable for desserts, cheese tray or to eat as it is.\nURL: https://www.hemkop.se/produkt/Paron-Conference-Klass-1-100139342_KG\n",
+  "discription": "Conference is a medium sized pear with long-tapered bottle like shape and a rounded base. To the color, the Conference pear is light greenish yellow with gold brown spots. Pears taste the most when they are really ripe. Suitable for desserts, cheese tray or to eat as it is.\n",
+  "image_uri": "DataDb/Fruit/Pear/Conference/Conference_Iconic.jpg"
+}{
+  "type": "Fruit",
+  "item": "Pear",
+  "varient": "Kaiser",
+  "information": "Title: Pear Bosc-kaiser Class 1 \nCountry and volume: Italy, ca 150g \nDescription: The Kaiser Pear is drip-shaped with matte, medium-thick, flaming yellow-brown or brownish shell. The yellowish white pulp is crispy, juicy and sweet, with some fresh acid. Kaiser pears match very well with dessert cheeses and wine, but it is also good to cook, as it retains its shape well.\nURL: https://www.hemkop.se/produkt/Paron-Bosc-kaiser-Klass-1-100129754_KG\n",
+  "discription": "The Kaiser Pear is drip-shaped with matte, medium-thick, flaming yellow-brown or brownish shell. The yellowish white pulp is crispy, juicy and sweet, with some fresh acid. Kaiser pears match very well with dessert cheeses and wine, but it is also good to cook, as it retains its shape well.\n",
+  "image_uri": "DataDb/Fruit/Pear/Kaiser/Kaiser_Iconic.jpg"
+}{
+  "type": "Fruit",
+  "item": "Pineapple",
+  "varient": "Pineapple",
+  "information": "Title: Pineapple Klass 1 \nCountry: Costa Rica \nDescription: Pineapple fits well to be eaten naturally in for example desserts and fruit salad. Remember to remove the log in the middle.\nURL: https://www.hemkop.se/produkt/Ananas-Klass-1-100145594_ST\n",
+  "discription": "Pineapple fits well to be eaten naturally in for example desserts and fruit salad. Remember to remove the log in the middle.\n",
+  "image_uri": "DataDb/Fruit/Pineapple/Pineapple_Iconic.jpg"
+}{
+  "type": "Fruit",
+  "item": "Plum",
+  "varient": "Plum",
+  "information": "Title: Plum Red Class 1 \nCountry and volume: Chile, ca 70g \nDescription: Ripe plums have soft and juicy pulp with sweet taste. Suitable for being eaten naturally, but is also used for preserving and pastries.\nURL: https://www.hemkop.se/produkt/Plommon-Rod-Klass-1-100258347_KG\n",
+  "discription": "Ripe plums have soft and juicy pulp with sweet taste. Suitable for being eaten naturally, but is also used for preserving and pastries.\n",
+  "image_uri": "DataDb/Fruit/Plum/Plum_Iconic.jpg"
+}{
+  "type": "Fruit",
+  "item": "Pomegranate",
+  "varient": "Pomegranate",
+  "information": "Title: Pomegranate Klass 1 \nCountry and volume: Peru, ca 440g \nDescription: Pomegranate has a sweet, gentle and refreshing taste, making pomegranate suitable for salads and desserts. It is only the kernels of the fruit that you eat. These are taken out by first cutting around the apple without destroying the core. Then turn both halves in opposite directions until they loosen. Finally, the kernels are loosened by knocking a wooden slab on the shell of the half, preferably over a bowl.\nURL: https://www.hemkop.se/produkt/Granatapple-Klass-1-101203898_KG\n",
+  "discription": "Pomegranate has a sweet, gentle and refreshing taste, making pomegranate suitable for salads and desserts. It is only the kernels of the fruit that you eat. These are taken out by first cutting around the apple without destroying the core. Then turn both halves in opposite directions until they loosen. Finally, the kernels are loosened by knocking a wooden slab on the shell of the half, preferably over a bowl.\n",
+  "image_uri": "DataDb/Fruit/Pomegranate/Pomegranate_Iconic.jpg"
+}{
+  "type": "Fruit",
+  "item": "Red-Grapefruit",
+  "varient": "Red-Grapefruit",
+  "information": "Title: Grapefruit Red Klass 1 \nCountry: Israel \nDescription: The red grapefruit has a red pulp and a slightly pink colored peel. The taste is characteristically bitter, but at the same time fresh and sour. The red grapefruit is sweeter than the blonde grapefruit.\nURL: https://www.hemkop.se/produkt/Grape-Rod-Klass-1-101204878_ST\n",
+  "discription": "The red grapefruit has a red pulp and a slightly pink colored peel. The taste is characteristically bitter, but at the same time fresh and sour. The red grapefruit is sweeter than the blonde grapefruit.\n",
+  "image_uri": "DataDb/Fruit/Red-Grapefruit/Red-Grapefruit_Iconic.jpg"
+}{
+  "type": "Fruit",
+  "item": "Satsumas",
+  "varient": "Satsumas",
+  "information": "Title: Satsumas Class 1 \nCountry and volume: Spain, ca 100g \nDescription: Satsumas is a sweet and small type of citrus fruit. The fruit is popular as a snack.\nURL: https://www.hemkop.se/produkt/Citrus-Sma-Klass-1-101273941_KG\n",
+  "discription": "Satsumas is a sweet and small type of citrus fruit. The fruit is popular as a snack.\n",
+  "image_uri": "DataDb/Fruit/Satsumas/Satsumas_Iconic.jpg"
+}{
+  "type": "Packages",
+  "item": "Juice",
+  "varient": "Bravo-Apple-Juice",
+  "information": "Title: Äpple Juice \nManufacturer and volume: BRAVO , 2l \nManufacturing country: Sweden \nIngredients: Äpplejuice. Juice från koncentrat. 2 liter motsvarar juice från ca 3 kg äpple.\nNutrition values per 100 gram: \n   energi ca 180 kilojoule \n   energi ca 45 kilokalori \n   fett ca 0 gram \n   varav mättat fett ca 0 gram \n   kolhydrat ca 9.5 gram \n   varav sockerarter ca 9.5 gram \n   fiber ca 0.2 gram \n   protein ca 0 gram \n   salt ca 0 gram \n   energi ca 180 kilojoule \n   energi ca 45 kilokalori \n   fett ca 0 gram \n   varav mättat fett ca 0 gram \n   kolhydrat ca 9.5 gram \n   varav sockerarter ca 9.5 gram \n   fiber ca 0.2 gram \n   protein ca 0 gram \n   salt ca 0 gram \nURL: https://www.hemkop.se/produkt/apple-Juice-100972967_ST",
+  "discription": "Ready to drink apple juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink.\n",
+  "image_uri": "DataDb/Packages/Juice/Bravo-Apple-Juice/Bravo-Apple-Juice_Iconic.jpg"
+}{
+  "type": "Packages",
+  "item": "Juice",
+  "varient": "Bravo-Orange-Juice",
+  "information": "Title: Apelsinjuice Drickfärdig Juice \nManufacturer and volume: BRAVO , 2l \nManufacturing country: Sweden \nIngredients: Apelsinjuice. Juice från koncentrat. 2 liter motsvarar juice från ca 4 kg apelsiner.\nNutrition values per 100 gram: \n   energi ca 45 kilokalori \n   energi ca 180 kilojoule \n   fett ca 0 gram \n   varav mättat fett ca 0 gram \n   kolhydrat ca 9 gram \n   varav sockerarter ca 9 gram \n   fiber ca 0.4 gram \n   protein ca 0.7 gram \n   salt ca 0 gram \n   vitamin C ca 28 milligram \n   energi ca 45 kilokalori \n   energi ca 180 kilojoule \n   fett ca 0 gram \n   varav mättat fett ca 0 gram \n   kolhydrat ca 9 gram \n   varav sockerarter ca 9 gram \n   fiber ca 0.4 gram \n   protein ca 0.7 gram \n   salt ca 0 gram \n   vitamin C ca 28 milligram \nURL: https://www.hemkop.se/produkt/Apelsinjuice-Drickfardig-Juice-100972930_ST",
+  "discription": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.\n",
+  "image_uri": "DataDb/Packages/Juice/Bravo-Orange-Juice/Bravo-Orange-Juice_Iconic.jpg"
+}{
+  "type": "Packages",
+  "item": "Juice",
+  "varient": "God-Morgon-Apple-Juice",
+  "information": "Title: Äpple Juice med Fruktkött Från Koncentrat \nManufacturer and volume: GOD MORGON , 1l \nManufacturing country: Denmark \nIngredients: Ofiltrerad äppeljuice från koncentrat, äppelpuré och C-vitamin. Pastöriserad.\nNutrition values per 100 gram: \n   energi ca 170 kilojoule \n   energi ca 40 kilokalori \n   fett ca 0.1 gram \n   varav mättat fett ca 0 gram \n   kolhydrat ca 10 gram \n   varav sockerarter ca 10 gram \n   protein ca 0.1 gram \n   salt ca 0.03 gram \n   vitamin C ca 40 milligram \n   energi ca 170 kilojoule \n   energi ca 40 kilokalori \n   fett ca 0.1 gram \n   varav mättat fett ca 0 gram \n   kolhydrat ca 10 gram \n   varav sockerarter ca 10 gram \n   protein ca 0.1 gram \n   salt ca 0.03 gram \n   vitamin C ca 40 milligram \nURL: https://www.hemkop.se/produkt/apple-Juice-med-Fruktkott-Fran-Koncentrat-101146350_ST",
+  "discription": "God Morning Apple is unfiltered, which gives a richer, more delicious juice with real apple flavor.\n",
+  "image_uri": "DataDb/Packages/Juice/God-Morgon-Apple-Juice/God-Morgon-Apple-Juice_Iconic.jpg"
+}{
+  "type": "Packages",
+  "item": "Juice",
+  "varient": "God-Morgon-Orange-Juice",
+  "information": "Title: Apelsinjuice \nManufacturer and volume: GOD MORGON , 1l \nManufacturing country: Denmark \nIngredients: Apelsinjuice från koncentrat med fruktkött (5,5%). Pastöriserad.\nNutrition values per 100 gram: \n   energi ca 180 kilojoule \n   energi ca 45 kilokalori \n   fett ca 0.1 gram \n   varav mättat fett ca 0 gram \n   kolhydrat ca 9.5 gram \n   varav sockerarter ca 9.3 gram \n   protein ca 0.6 gram \n   salt ca 0.05 gram \n   vitamin C ca 30 milligram \n   energi ca 180 kilojoule \n   energi ca 45 kilokalori \n   fett ca 0.1 gram \n   varav mättat fett ca 0 gram \n   kolhydrat ca 9.5 gram \n   varav sockerarter ca 9.3 gram \n   protein ca 0.6 gram \n   salt ca 0.05 gram \n   vitamin C ca 30 milligram \nURL: https://www.hemkop.se/produkt/Apelsinjuice-100985864_ST",
+  "discription": "God Morgon Orange is pressed by sun-dried, hand-picked oranges. The package contains juice from 2 kilograms of oranges!\n",
+  "image_uri": "DataDb/Packages/Juice/God-Morgon-Orange-Juice/God-Morgon-Orange-Juice_Iconic.jpg"
+}{
+  "type": "Packages",
+  "item": "Juice",
+  "varient": "God-Morgon-Orange-Red-Grapefruit-Juice",
+  "information": "Title: Apelsin Blodgrape Juice med Fruktkött \nManufacturer and volume: GOD MORGON , 1l \nManufacturing country: Denmark \nIngredients: Apelsin- (57 %) och röd grapejuice (38%) från koncentrat, fruktkött från apelsin och röd grapefrukt(5%). Pastöriserad.\nNutrition values per 100 gram: \n   energi ca 40 kilokalori \n   energi ca 160 kilojoule \n   energi ca 40 kilokalori \n   energi ca 160 kilojoule \nURL: https://www.hemkop.se/produkt/Apelsin-Blodgrape-Juice-med-Fruktkott-100985828_ST",
+  "discription": "God Morning Orange / Red Grapefruit is a fresh blend of sweet orange juice and tasty fresh red grapefruit.\n",
+  "image_uri": "DataDb/Packages/Juice/God-Morgon-Orange-Red-Grapefruit-Juice/God-Morgon-Orange-Red-Grapefruit-Juice_Iconic.jpg"
+}{
+  "type": "Packages",
+  "item": "Juice",
+  "varient": "God-Morgon-Red-Grapefruit-Juice",
+  "information": "Title: Blodgrape Juice med Fruktkött \nManufacturer and volume: GOD MORGON , 1l \nManufacturing country: Denmark \nIngredients: Juice av röd grape med (3,5%) fruktkött från koncentrat. Pastöriserad.\nNutrition values per 100 gram: \n   energi ca 140 kilojoule \n   energi ca 35 kilokalori \n   fett ca 0.1 gram \n   varav mättat fett ca 0 gram \n   kolhydrat ca 8 gram \n   varav sockerarter ca 8 gram \n   protein ca 0.3 gram \n   salt ca 0.04 gram \n   vitamin C ca 20 milligram \n   energi ca 140 kilojoule \n   energi ca 35 kilokalori \n   fett ca 0.1 gram \n   varav mättat fett ca 0 gram \n   kolhydrat ca 8 gram \n   varav sockerarter ca 8 gram \n   protein ca 0.3 gram \n   salt ca 0.04 gram \n   vitamin C ca 20 milligram \nURL: https://www.hemkop.se/produkt/Blodgrape-Juice-med-Fruktkott-100985640_ST",
+  "discription": "God Morning Red Grapefruit is a real vitamin kick - mellow, rich in taste and as refreshing as only red grapefruit can be.\n",
+  "image_uri": "DataDb/Packages/Juice/God-Morgon-Red-Grapefruit-Juice/God-Morgon-Red-Grapefruit-Juice_Iconic.jpg"
+}{
+  "type": "Packages",
+  "item": "Juice",
+  "varient": "Tropicana-Apple-Juice",
+  "information": "Title: Äpple Färskpressad Juice \nManufacturer and volume: TROPICANA , 1l \nManufacturing country: Sverige \nIngredients: Äpple-/ Eple-/ Æblejuice, antioxidant: askorbinsyra/ askorbinsyre (Vitamin C).\nNutrition values per 100 gram: \n   energi ca 51 kilokalori \n   energi ca 219 kilojoule \n   fett ca 0 gram \n   varav mättat fett ca 0 gram \n   kolhydrat ca 12 gram \n   varav sockerarter ca 12 gram \n   fiber ca 0.6 gram \n   protein ca 0.1 gram \n   salt ca 0 gram \n   vitamin C ca 41 milligram \nURL: https://www.hemkop.se/produkt/apple-Farskpressad-Juice-100985702_ST",
+  "discription": "Tropicana Apple is a ready to drink juice with pulp pressed on apples. Not from concentrate. Mildly pasteurized.\n",
+  "image_uri": "DataDb/Packages/Juice/Tropicana-Apple-Juice/Tropicana-Apple-Juice_Iconic.jpg"
+}{
+  "type": "Packages",
+  "item": "Juice",
+  "varient": "Tropicana-Golden-Grapefruit",
+  "information": "Title: Golden Grapefruit Färskpressad Juice \nManufacturer and volume: TROPICANA , 1l \nManufacturing country: Sverige \nIngredients: Ingredienser/ Ainesosat: Grapefruktjuice med fruktkött/fruktkjøtt / frugtkød/ Greippitäysmehua (Sisältää hedelmälihaa).\nNutrition values per 100 gram: \n   energi ca 40 kilokalori \n   energi ca 168 kilojoule \n   fett ca 0 gram \n   varav mättat fett ca 0 gram \n   kolhydrat ca 8 gram \n   varav sockerarter ca 8 gram \n   fiber ca 0.5 gram \n   protein ca 0.5 gram \n   salt ca 0 gram \n   vitamin C ca 25 milligram \nURL: https://www.hemkop.se/produkt/Golden-Grapefruit-Farskpressad-Juice-100985739_ST",
+  "discription": "Tropicana Golden Grape is a ready to drink juice with pulp pressed on grapefruit. Not from concentrate. Mildly pasteurized.\n",
+  "image_uri": "DataDb/Packages/Juice/Tropicana-Golden-Grapefruit/Tropicana-Golden-Grapefruit_Iconic.jpg"
+}{
+  "type": "Packages",
+  "item": "Juice",
+  "varient": "Tropicana-Juice-Smooth",
+  "information": "Title: Smooth Style Utan Fruktkött Färskpressad Juice \nManufacturer and volume: TROPICANA , 1l \nManufacturing country: Sverige \nIngredients: 100% Apelsinjuice utan fruktkött/ 100% appelsinjuice uten fruktkjøtt / 100% appelsinjuice uden frugtkød.\nNutrition values per 100 gram: \n   energi ca 201 kilojoule \n   energi ca 48 kilokalori \n   fett ca 0 gram \n   varav mättat fett ca 0 gram \n   kolhydrat ca 10 gram \n   varav sockerarter ca 10 gram \n   fiber ca 0.40 gram \n   protein ca 0.80 gram \n   salt ca 0 gram \n   vitamin c ca 33 milligram \nURL: https://www.hemkop.se/produkt/Smooth-Style-Utan-Fruktkott-Farskpressad-Juice-100985668_ST",
+  "discription": "Tropicana Smooth Style is a ready to drink juice without pulp pressed on sun-dried oranges. Not from concentrate. Mildly pasteurized.\n",
+  "image_uri": "DataDb/Packages/Juice/Tropicana-Juice-Smooth/Tropicana-Juice-Smooth_Iconic.jpg"
+}{
+  "type": "Packages",
+  "item": "Juice",
+  "varient": "Tropicana-Mandarin-Morning",
+  "information": "Title: Mandarin Grape Orange Färskpressad Juice \nManufacturer and volume: TROPICANA , 1l \nManufacturing country: Sweden \nIngredients: Juice av mandariner (38%), apelsiner/appelsiner med fruktkött/fruktkjøtt/frugtkød (34%), äpple/eple/æble (18%) och/og gröna druvor/druer (10%).\nNutrition values per 100 gram: \n   energi ca 196 kilojoule \n   energi ca 46 kilokalori \n   fett ca 0 gram \n   varav mättat fett ca 0 gram \n   kolhydrat ca 10 gram \n   varav sockerarter ca 10 gram \n   fiber ca 0.7 gram \n   protein ca 0.5 gram \n   salt ca 0 gram \n   vitamin C ca 9 milligram \nURL: https://www.hemkop.se/produkt/Mandarin-Grape-Orange-Farskpressad-Juice-100985935_ST",
+  "discription": "Tropicana Mandarin Morning is a ready to drink juice without pulp pressed on orange, mandarin and grapes. Not from concentrate. Mildly pasteurized.\n",
+  "image_uri": "DataDb/Packages/Juice/Tropicana-Mandarin-Morning/Tropicana-Mandarin-Morning_Iconic.jpg"
+}{
+  "type": "Packages",
+  "item": "Milk",
+  "varient": "Arla-Ecological-Medium-Fat-Milk",
+  "information": "Title: Skimmed milk Ecological 1.5% \nManufacturer and volume: ARLA , 1l \nManufacturing country: Sweden \nIngredients: Milk, vitamin D. KRAV- organic ingredient. Lowpasteurized.\nNutrition values per 100 gram: \n   energy ca 200 kilojoule \n   energy ca 45 kilocalorie\n   fat ca 1.5 gram \n   of which saturated fat ca 1 gram \n   carbohydrate ca 4.9 gram \n   of which sugars ca 4.9 gram \n   protein ca 3.5 gram \n   salt ca 0.1 gram \n   vitamin D ca 1 mikrogram \n   riboflavin ca 0.15 milligram \n   folic acid ca 15 mikrogram \n   vitamin B12 ca 0.6 mikrogram \n   pantothenic acid ca 0.5 milligram \n   potassium ca 160 milligram \n   chlorine ca 95 milligram \n   calcium ca 120 milligram \n   phosphorus ca 105 milligram \n   molybdenum ca 4.7 mikrogram \n   iodine ca 12 mikrogram  \nURL: https://www.hemkop.se/produkt/Mellanmjolk-Ekologisk-1-5procent-101123632_ST\n",
+  "discription": "Fresh skimmed Milk made from Swedish Milk from organic Arlagårdar. Skimmed milk has a delicious full flavor and is a popular choice for breakfast cereals, porridge or as a drink for the meal. Milk is a natural source of, for example, protein, calcium and vitamin B12. Protein contributes to muscle building and calcium is needed to maintain a normal bone structure. The brand Arla Ko guarantees that the product is made of 100% Swedish milk. The new brown carton has 24 percent lower climate impact compared to the previous white carton.\n",
+  "image_uri": "DataDb/Packages/Milk/Arla-Ecological-Medium-Fat-Milk/Arla-Ecological-Medium-Fat-Milk_Iconic.jpg"
+}{
+  "type": "Packages",
+  "item": "Milk",
+  "varient": "Arla-Lactose-Medium-Fat-Milk",
+  "information": "Title: Skimmed milk lactose free 1,5% \nManufacturer and volume: ARLA KO, 1l \nManufacturing country: Sweden \nIngredients: Milk, lactase, vitamin D. Pasteurized.\nNutrition values per 100 gram: \n   energy ca 160 kilojoule \n   energy ca 40 kilocalorie \n   fat ca 1.5 gram \n   of which saturated fat ca 1 gram \n   carbohydrate ca 2.7 gram \n   of which sugars ca 2.7 gram \n   protein ca 3.6 gram \n   salt ca 0.1 gram \n   vitamin D ca 1 mikrogram \n   riboflavin ca 0.14 milligram \n   vitamin B12 ca 0.6 mikrogram \n   calcium ca 120 milligram \nURL: https://www.hemkop.se/produkt/Mellanmjolk-Laktosfri-1-5procent-100906879_ST\n",
+  "discription": "Lactose-free skimmed milk made from Swedish milk from Arlagårdar. The product is designed for adults and children with lactose intolerance and is therefore free from lactose. The skimmed milk has a delicious full-bodied milk flavor and is a popular choice for breakfast cereals, porridge or as a drink for the meal. The brand Arla Ko guarantees that the product is made of 100% Swedish milk.\n",
+  "image_uri": "DataDb/Packages/Milk/Arla-Lactose-Medium-Fat-Milk/Arla-Lactose-Medium-Fat-Milk_Iconic.jpg"
+}{
+  "type": "Packages",
+  "item": "Milk",
+  "varient": "Arla-Medium-Fat-Milk",
+  "information": "Title: Skimmed milk 1,5% \nManufacturer and volume: ARLA KO , 1l \nManufacturing country: Sweden \nIngredients: Milk, vitamin D. Lowpasteurized.\nNutrition values per 100 gram: \n   energy ca 200 kilojoule \n   energy ca 45 kilocalorie \n   fat ca 1.5 gram \n   of which saturated fat ca 1 gram \n   carbohydrate ca 4.9 gram \n   of which sugars ca 4.9 gram \n   protein ca 3.5 gram \n   salt ca 0.1 gram \n   vitamin D ca 1 microgram \n   riboflavin ca 0.15 milligram \n   folic acid ca 15 microgram \n   vitamin B12 ca 0.6 microgram \n   pantothenic acid ca 0.5 milligram \n   potassium ca 160 milligram \n   chlorine ca 95 milligram \n   calcium ca 120 milligram \n   phosphorus ca 105 milligram \n   molybdenum ca 4.7 microgram \n   iodine ca 12 microgram \nURL: https://www.hemkop.se/produkt/Mellanmjolk-1-5procent-100183962_ST\n",
+  "discription": "Fresh skimmed milk made from Swedish milk from Arlagårdar. Skimmed milk has a delicious full-bodied milk flavor and is a popular choice for breakfast cereals, porridge or as a drink for the meal. Milk is a natural source of, for example, protein, calcium and vitamin B12. Protein contributes to muscle building and calcium is needed to maintain a normal bone structure. The brand Arla Ko guarantees that the product is made of 100% Swedish milk.\n",
+  "image_uri": "DataDb/Packages/Milk/Arla-Medium-Fat-Milk/Arla-Medium-Fat-Milk_Iconic.jpg"
+}{
+  "type": "Packages",
+  "item": "Milk",
+  "varient": "Arla-Standard-Milk",
+  "information": "Title: Mjölk 3% \nManufacturer and volume: ARLA KO , 1l \nManufacturing country: Sweden \nIngredients: MJÖLK, vitamin D. Lågpastöriserad.\nNutrition values per 100 gram: \n   energi ca 250 kilojoule \n   energi ca 60 kilokalori \n   fett ca 3 gram \n   varav mättat fett ca 1.9 gram \n   kolhydrat ca 4.8 gram \n   varav sockerarter ca 4.8 gram \n   protein ca 3.4 gram \n   salt ca 0.1 gram \n   vitamin D ca 1 mikrogram \n   riboflavin ca 0.15 milligram \n   folsyra ca 15 mikrogram \n   vitamin B12 ca 0.6 mikrogram \n   pantotensyra ca 0.5 milligram \n   kalium ca 160 milligram \n   klor ca 95 milligram \n   kalcium ca 120 milligram \n   fosfor ca 105 milligram \n   molybden ca 4.7 mikrogram \n   jod ca 12 mikrogram \n   energi ca 250 kilojoule \n   energi ca 60 kilokalori \n   fett ca 3 gram \n   varav mättat fett ca 1.9 gram \n   kolhydrat ca 4.8 gram \n   varav sockerarter ca 4.8 gram \n   protein ca 3.4 gram \n   salt ca 0.1 gram \n   vitamin D ca 1 mikrogram \n   riboflavin ca 0.15 milligram \n   folsyra ca 15 mikrogram \n   vitamin B12 ca 0.6 mikrogram \n   pantotensyra ca 0.5 milligram \n   kalium ca 160 milligram \n   klor ca 95 milligram \n   kalcium ca 120 milligram \n   fosfor ca 105 milligram \n   molybden ca 4.7 mikrogram \n   jod ca 12 mikrogram \nURL: https://www.hemkop.se/produkt/Mjolk-3procent-100183944_ST",
+  "discription": "Fresh standard milk made from Swedish milk from Arlagårdar. The taste is round and full of clear flavors of cream. This makes it extra good for coffee, tea and chocolate. Standard milk can also be used for cooking, berries and porridge. Milk is a natural source of, for example, protein, calcium and vitamin B12. Protein contributes to muscle building and calcium is needed to maintain a normal bone structure. The brand Arla Ko guarantees that the product is made of 100 percent Swedish milk.\n",
+  "image_uri": "DataDb/Packages/Milk/Arla-Standard-Milk/Arla-Standard-Milk_Iconic.jpg"
+}{
+  "type": "Packages",
+  "item": "Milk",
+  "varient": "Garant-Ecological-Medium-Fat-Milk",
+  "information": "Title: Mellanmjölk Ekologisk 1,5% \nManufacturer and volume: GARANT EKO , 1l \nManufacturing country: Sverige \nIngredients: INGREDIENSER: Lågpastöriserad MJÖLK*, vitamin D. *KRAV-godkänd råvara.\nNutrition values per 100 gram: \n   energi ca 200 kilojoule \n   energi ca 45 kilokalori \n   fett ca 1.50 gram \n   varav mättat fett ca 1 gram \n   kolhydrat ca 4.90 gram \n   varav sockerarter ca 4.90 gram \n   protein ca 3.50 gram \n   salt ca 0.10 gram \n   vitamin d ca 0.45 mikrogram \n   riboflavin ca 0.15 milligram \n   vitamin b12 ca 0.60 mikrogram \n   kalcium ca 120 milligram \n   jod ca 12 mikrogram \nURL: https://www.hemkop.se/produkt/Mellanmjolk-Ekologisk-1-5procent-101187327_ST",
+  "discription": "Organic skimmed milk from our Swedish KRAV farms. 1.5 percent fat. Garant's organic labeling tells us that a product is organic and sometimes even KRAV-labeled. Our assortment is constantly filled with more EKO products.\n",
+  "image_uri": "DataDb/Packages/Milk/Garant-Ecological-Medium-Fat-Milk/Garant-Ecological-Medium-Fat-Milk_Iconic.jpg"
+}{
+  "type": "Packages",
+  "item": "Milk",
+  "varient": "Garant-Ecological-Standard-Milk",
+  "information": "Title: Standardmjölk Ekologisk 3% \nManufacturer and volume: GARANT EKO , 1l \nManufacturing country: Sweden \nIngredients: INGREDIENSER: Lågpastöriserad MJÖLK*. *KRAV-godkänd råvara.\nNutrition values per 100 gram: \n   energi ca 60 kilokalori \n   energi ca 260 kilojoule \n   fett ca 3 gram \n   varav mättat fett ca 1.9 gram \n   kolhydrat ca 4.8 gram \n   varav sockerarter ca 4.8 gram \n   protein ca 3.4 gram \n   salt ca 0.1 gram \n   riboflavin ca 0.15 milligram \n   vitamin B12 ca 0.6 mikrogram \n   kalcium ca 120 milligram \n   jod ca 12 mikrogram \nURL: https://www.hemkop.se/produkt/Standardmjolk-Ekologisk-3procent-101187312_ST",
+  "discription": "Ecological milk from Swedish KRAV-labeled farms.\n",
+  "image_uri": "DataDb/Packages/Milk/Garant-Ecological-Standard-Milk/Garant-Ecological-Standard-Milk_Iconic.jpg"
+}{
+  "type": "Packages",
+  "item": "Oat-Milk",
+  "varient": "Oatly-Oat-Milk",
+  "information": "Title: Havredryck Berikad Färsk \nManufacturer and volume: OATLY , 1l \nManufacturing country: Sverige \nIngredients: INGREDIENSER: Havrebas (vatten, HAVRE 10 %), rapsolja, kalciumkarbonat, kalciumfosfater, joderat salt, vitaminer (D2, riboflavin och B12).\nNutrition values per 100 gram: \n   energi ca 190 kilojoule \n   energi ca 50 kilokalori \n   fett ca 1.5 gram \n   varav mättat fett ca 0.2 gram \n   kolhydrat ca 6.6 gram \n   varav sockerarter ca 4.1 gram \n   fiber ca 0.8 gram \n   protein ca 1 gram \n   salt ca 0.11 gram \n   vitamin D ca 1.5 mikrogram \n   riboflavin ca 0.21 milligram \n   vitamin B12 ca 0.38 mikrogram \n   kalcium ca 120 milligram \nURL: https://www.hemkop.se/produkt/Havredryck-Berikad-Farsk-101223155_ST",
+  "discription": "A natural oat drink, enriched with calcium and vitamins. Has long shelf life and can be stored at room temperature.\n",
+  "image_uri": "DataDb/Packages/Oat-Milk/Oatly-Oat-Milk/Oatly-Oat-Milk_Iconic.jpg"
+}{
+  "type": "Packages",
+  "item": "Oatghurt",
+  "varient": "Oatly-Natural-Oatghurt",
+  "information": "Title: Havregurt Naturell \nManufacturer and volume: OATLY , 1kg \nManufacturing country: Sverige \nDescription: Helt vegetabilisk gurt, används som yogurt. Kan med fördel även användas till kalla såser.\nIngredients: INGREDIENSER: Syrad havrebas (vatten, HAVRE 12%, syrningskultur), potatisstärkelse, rapsolja, kalciumkarbonat, kalciumfosfat, naturlig arom, vitaminer (D2, riboflavin och B12).\nNutrition values per 100 gram: \n   energi ca 280 kilojoule \n   energi ca 70 kilokalori \n   fett ca 2.2 gram \n   varav mättat fett ca 0.2 gram \n   kolhydrat ca 10 gram \n   varav sockerarter ca 4.6 gram \n   fiber ca 1 gram \n   protein ca 1.2 gram \n   salt ca 0 gram \n   vitamin D ca 1.5 mikrogram \n   riboflavin ca 0.21 milligram \n   vitamin B12 ca 0.38 mikrogram \n   kalcium ca 120 milligram \nURL: https://www.hemkop.se/produkt/Havregurt-Naturell-101223139_ST",
+  "discription": "Whole vegetable ghurt, used as yoghurt. Can also be used for cold sauces.\n",
+  "image_uri": "DataDb/Packages/Oatghurt/Oatly-Natural-Oatghurt/Oatly-Natural-Oatghurt_Iconic.jpg"
+}{
+  "type": "Packages",
+  "item": "Sour-Cream",
+  "varient": "Arla-Ecological-Sour-Cream",
+  "information": "Title: Sour cream ecological 12% \nManufacturer and volume: ARLA KO, 3dl \nManufacturing country: Sweden\nIngredients: Cream (Pasteurized) fat content 12%, starter culture. *KRAV organic ingredients.\nNutrition values per 100 gram: \n   energy ca 550 kilojoule \n   energy ca 140 kilocalorie\n   fat ca 12 gram \n   of which saturated fat ca 7.7 gram \n   carbohydrate ca 3.4 gram \n   of which sugars ca 3.4 gram \n   protein ca 3.1 gram \n   salt ca 0.1 gram \nURL: https://www.hemkop.se/produkt/Graddfil-Eko-12procent-101196968_ST\n",
+  "discription": "KRAV-labeled sour cream made from fresh cream from Swedish organic Arlagårdar. Sour cream is a real classic that has its obvious place for both everyday and weekend. It has an acidic, creamy and fresh taste with a slightly creamy consistency and is excellent as a natural accessory or as a base in cold sauces and dressings. With its fresh acid it softens the heat from spicy dishes. The brand Arla Ko guarantees that the product is made of 100% Swedish milk.\n",
+  "image_uri": "DataDb/Packages/Sour-Cream/Arla-Ecological-Sour-Cream/Arla-Ecological-Sour-Cream_Iconic.jpg"
+}{
+  "type": "Packages",
+  "item": "Sour-Cream",
+  "varient": "Arla-Sour-Cream",
+  "information": "Title: Gräddfil 12% \nManufacturer and volume: ARLA KO , 3dl \nManufacturing country: Sweden \nIngredients: Högpastöriserad GRÄDDE fetthalt 12% och syrningskultur.\nNutrition values per 100 gram: \n   energi ca 550 kilojoule \n   energi ca 140 kilokalori \n   fett ca 12 gram \n   varav mättat fett ca 7.7 gram \n   kolhydrat ca 3.4 gram \n   varav sockerarter ca 3.4 gram \n   protein ca 3.1 gram \n   salt ca 0.1 gram \n   energi ca 550 kilojoule \n   energi ca 140 kilokalori \n   fett ca 12 gram \n   varav mättat fett ca 7.7 gram \n   kolhydrat ca 3.4 gram \n   varav sockerarter ca 3.4 gram \n   protein ca 3.1 gram \n   salt ca 0.1 gram \nURL: https://www.hemkop.se/produkt/Graddfil-12procent-100480800_ST",
+  "discription": "Sour cream made from fresh cream from Swedish Arlagårdar. Sour cream is a real classic that has its obvious place for both weekday and weekend. It has an acidic, creamy and fresh taste with a slightly creamy texture. The product is excellent as a natural accessory or as a base in cold sauces and dressings. With its fresh acid it softens the heat from spicy dishes. The brand Arla Ko guarantees that the product is made of 100% Swedish milk.\n",
+  "image_uri": "DataDb/Packages/Sour-Cream/Arla-Sour-Cream/Arla-Sour-Cream_Iconic.jpg"
+}{
+  "type": "Packages",
+  "item": "Sour-Milk",
+  "varient": "Arla-Sour-Milk",
+  "information": "Title: Filmjölk 3% \nManufacturer and volume: ARLA KO , 1kg \nManufacturing country: Sweden \nIngredients: Högpastöriserad MJÖLK, filkultur, vitamin D.\nNutrition values per 100 gram: \n   energi ca 250 kilojoule \n   energi ca 60 kilokalori \n   fett ca 3 gram \n   varav mättat fett ca 1.9 gram \n   kolhydrat ca 3.8 gram \n   varav sockerarter ca 3.8 gram \n   protein ca 3.4 gram \n   salt ca 0.1 gram \n   vitamin D ca 1 mikrogram \n   kalcium ca 120 milligram \n   energi ca 250 kilojoule \n   energi ca 60 kilokalori \n   fett ca 3 gram \n   varav mättat fett ca 1.9 gram \n   kolhydrat ca 3.8 gram \n   varav sockerarter ca 3.8 gram \n   protein ca 3.4 gram \n   salt ca 0.1 gram \n   vitamin D ca 1 mikrogram \n   kalcium ca 120 milligram \nURL: https://www.hemkop.se/produkt/Filmjolk-3procent-101207046_ST",
+  "discription": "Classic sour milk made from Swedish milk from Arlagårdar. The flavor is slightly acidic with characteristically sour milk aroma and light creaminess. The texture is a bit thicker and the sour milk can be eaten with muesli, cereal, fruit or berries. Sour milk has a long history in Sweden - already in the Viking era you have had sour milk-like products. The brand Arla Ko guarantees that the product is made of 100% Swedish milk.\n",
+  "image_uri": "DataDb/Packages/Sour-Milk/Arla-Sour-Milk/Arla-Sour-Milk_Iconic.jpg"
+}{
+  "type": "Packages",
+  "item": "Soy-Milk",
+  "varient": "Alpro-Fresh-Soy-Milk",
+  "information": "Title: Soy drink Calcium Fresh \nManufacturer and volume: ALPRO , 1l \nIngredients: Water, peeled soy beans (5,9%), sugar, tricalcium phosphate, sea salt, stabilizer (gellan gum), aroma, vitamins (riboflavin (B2), B12, D2).\nNutrition values per 100 gram: \n   energy ca 158 kilojoule \n   energy ca 38 kilocalorie \n   fat ca 1.8 gram \n   of which saturated fat ca 0.3 gram \n   carbohydrate ca 2.3 gram \n   of which sugars ca 2.3 gram \n   fiber ca 0.5 gram \n   protein ca 3 gram \n   salt ca 0.11 gram \n   vitamin D ca 0.75 mikrogram \n   riboflavin ca 0.21 milligram \n   vitamin B12 ca 0.38 mikrogram \n   calcium ca 120 milligram \nURL: https://www.hemkop.se/produkt/Sojadryck-Kalcium-Farsk-101026569_ST\n",
+  "discription": "Fresh soy based drink, enriched with calcium and vitamins.\n",
+  "image_uri": "DataDb/Packages/Soy-Milk/Alpro-Fresh-Soy-Milk/Alpro-Fresh-Soy-Milk_Iconic.jpg"
+}{
+  "type": "Packages",
+  "item": "Soy-Milk",
+  "varient": "Alpro-Shelf-Soy-Milk",
+  "information": "Title: Soy drink calcium \nManufacturer and volume: ALPRO , 1l \nIngredients: Water, peeled soy beans (8%), sugar, calcium carbonates, acidity regulator (potassium phosphate), sea salt, stabilizer (gellan gum), aroma, vitamins ((B2, B12, D2).\nNutrition values per 100 gram: \n   energy ca 163 kilojoule \n   energy ca 39 kilokalori \n   fat ca 1.8 gram \n   of which saturated fatca 0.3 gram \n   carbohydrate ca 2.5 gram \n   of which sugars ca 2.5 gram \n   fiber ca 0.5 gram \n   protein ca 3 gram \n   salt ca 0.11 gram \n   vitamin D ca 0.75 mikrogram \n   riboflavin ca 0.21 milligram \n   vitamin B12 ca 0.38 mikrogram \n   calcium ca 120 milligram  \nURL: https://www.hemkop.se/produkt/Sojadryck-Kalcium-101220250_ST\n",
+  "discription": "Soy based drink, enriched with calcium and vitamins. Can be stored in room temperature.\n",
+  "image_uri": "DataDb/Packages/Soy-Milk/Alpro-Shelf-Soy-Milk/Alpro-Shelf-Soy-Milk_Iconic.jpg"
+}{
+  "type": "Packages",
+  "item": "Soyghurt",
+  "varient": "Alpro-Blueberry-Soyghurt",
+  "information": "Title: Blueberry Yofu Soyghurt \nManufacturer and volume: ALPRO , 750g \nIngredients: Water, sugar, peeled soy beans (7,2%), blueberry (6%), glucose-fructose syrup, tricalcium citrate, acidity regulator (sodium citrate, citric acid), stabilizer (pectin), natural aroma, hibiscus and carrot juice concentrate, sea salt, vitamins (riboflavin (B2), B12, D2), antioxdant (tokopherol, ascorbyl palmitate), yoghurt culture (S. thermophilus, L. bulgaricus).\nNutrition values per 100 gram: \n   energy ca 76 kilocalorie \n   energy ca 322 kilojoules \n   fat ca 1.9 gram \n   of which saturated fat ca 0.3 gram \n   carbohydrate ca 10.1 gram \n   of which sugars ca 10.1 gram \n   fiber ca 0.9 gram \n   protein ca 3.6 gram \n   salt ca 0.1 gram \n   vitamin D ca 0.75 mikrogram \n   riboflavin ca 0.21 milligram \n   vitamin B12 ca 0.44 mikrogram \n   calcium ca 120 milligram \nURL: https://www.hemkop.se/produkt/Blabar-Yofu-Sojayoghurt-101189719_ST\n",
+  "discription": "Soy based ghurt, used as yoghurt, with mild blueberry taste and creamy texture.\n",
+  "image_uri": "DataDb/Packages/Soyghurt/Alpro-Blueberry-Soyghurt/Alpro-Blueberry-Soyghurt_Iconic.jpg"
+}{
+  "type": "Packages",
+  "item": "Soyghurt",
+  "varient": "Alpro-Vanilla-Soyghurt",
+  "information": "Title: Mild & Creamy Vanilla Soyghurt \nManufacturer and volume: ALPRO , 750g \nIngredients: Water, sugar, peeled soy beans (7,5%), tricalcium citrate, stabilizer (pectin), acidity regulator (sodium citrate, citric acid), vanilla powder (0,3%), aroma, dye (mixed carotene), sea salt, antioxidant (tokopherol, ascorbyl palmitate), yoghurt culture (S. thermophilus, L. bulgaricus), vitamins (riboflavin (B2), B12, D2)\nNutrition values per 100 gram: \n   energy ca 334 kilojoule \n   energy ca 79 kilocalorie\n   fat ca 2.2 gram \n   of which saturated fat ca 0.4 gram \n   carbohydrate ca 9.2 gram \n   of which sugars ca 9.2 gram \n   fiber ca 0.6 gram \n   protein ca 3.7 gram \n   sodium ca 0.1 gram \n   vitamin D ca 0.75 mikrogram \n   riboflavin ca 0.37 milligram \n   vitamin B12 ca 0.44 mikrogram \n   calcium ca 120 milligram \nURL: https://www.hemkop.se/produkt/Mild-och-Creamy-Vanilj-Sojayoghurt-101189736_ST\n",
+  "discription": "Soy based ghurt, used as yoghurt, with mild vanilla taste and and creamy texture.\n",
+  "image_uri": "DataDb/Packages/Soyghurt/Alpro-Vanilla-Soyghurt/Alpro-Vanilla-Soyghurt_Iconic.jpg"
+}{
+  "type": "Packages",
+  "item": "Yoghurt",
+  "varient": "Arla-Mild-Vanilla-Yoghurt",
+  "information": "Title: Mild Yoghurt Vanilla\nManufacturer and volume: ARLA KO , 1l \nManufacturing country: Sweden \nIngredients: Pasteurized milk, sugar 5%, milk protein, natural aroma, vanilla extract, mild yoghurt culture, vitamin D.\nNutrition values per 100 gram: \n   energy ca 300 kilojoule \n   energy ca 70 kilocalorie \n   fat ca 2 gram \n   of which saturated fat ca 1.2 gram \n   carbohydrate ca 8.6 gram \n   of which sugars ca 8.5 gram \n   protein ca 3.9 gram \n   salt ca 0.1 gram \n   vitamin D ca 1 microgram \nURL: https://www.hemkop.se/produkt/Mild-Yoghurt-Vanilj-100575995_ST\n",
+  "discription": "Mild and smooth vanilla yoghurt made of Swedish milk from Arlagårdar. The texture is creamy and tender, the taste soft and round. The yoghurt fits well for breakfast and snacks for the whole family. Eat it as it is or with muesli, flakes, fruit and berries. Vanilla yoghurt is also a perfect base for smoothies. The brand Arla Ko guarantees that the product is made of 100% Swedish milk.\n",
+  "image_uri": "DataDb/Packages/Yoghurt/Arla-Mild-Vanilla-Yoghurt/Arla-Mild-Vanilla-Yoghurt_Iconic.jpg"
+}{
+  "type": "Packages",
+  "item": "Yoghurt",
+  "varient": "Arla-Natural-Mild-Low-Fat-Yoghurt",
+  "information": "Title: Mild Lättyoghurt Naturell 0,5% \nManufacturer and volume: ARLA KO , 1l \nManufacturing country: Sweden \nIngredients: Högpastöriserad mjölk, mjölkprotein, mild yoghurtkultur, vitamin D.\nNutrition values per 100 gram: \n   energi ca 170 kilojoule \n   energi ca 40 kilokalori \n   fett ca 0.5 gram \n   varav mättat fett ca 0.3 gram \n   kolhydrat ca 4 gram \n   varav sockerarter ca 4 gram \n   protein ca 4.1 gram \n   salt ca 0.1 gram \n   vitamin D ca 1 mikrogram \n   kalcium ca 120 milligram \n   energi ca 170 kilojoule \n   energi ca 40 kilokalori \n   fett ca 0.5 gram \n   varav mättat fett ca 0.3 gram \n   kolhydrat ca 4 gram \n   varav sockerarter ca 4 gram \n   protein ca 4.1 gram \n   salt ca 0.1 gram \n   vitamin D ca 1 mikrogram \n   kalcium ca 120 milligram \nURL: https://www.hemkop.se/produkt/Mild-Lattyoghurt-Naturell-0-5procent-100232240_ST",
+  "discription": "Keyhole-labeled light yoghurt with creamy texture and natural taste. With its low fat content, the yoghurt is an excellent choice if you want to eat healthy without having to sacrifice the good taste. The yoghurt fits well for both breakfast and snacks. Eat it as it is or with muesli, flakes, fruit and berries. The brand Arla Ko guarantees that the product is made of 100% Swedish milk.\n",
+  "image_uri": "DataDb/Packages/Yoghurt/Arla-Natural-Mild-Low-Fat-Yoghurt/Arla-Natural-Mild-Low-Fat-Yoghurt_Iconic.jpg"
+}{
+  "type": "Packages",
+  "item": "Yoghurt",
+  "varient": "Arla-Natural-Yoghurt",
+  "information": "Title: Yoghurt Naturell \nManufacturer and volume: ARLA KO , 1l \nManufacturing country: Sweden \nIngredients: Högpastöriserad mjölk och yoghurtkultur, vitamin D.\nNutrition values per 100 gram: \n   energi ca 250 kilojoule \n   energi ca 60 kilokalori \n   fett ca 3 gram \n   varav mättat fett ca 1.9 gram \n   kolhydrat ca 3.6 gram \n   varav sockerarter ca 3.6 gram \n   protein ca 3.4 gram \n   salt ca 0.1 gram \n   vitamin D ca 1 mikrogram \n   kalcium ca 120 milligram \n   energi ca 250 kilojoule \n   energi ca 60 kilokalori \n   fett ca 3 gram \n   varav mättat fett ca 1.9 gram \n   kolhydrat ca 3.6 gram \n   varav sockerarter ca 3.6 gram \n   protein ca 3.4 gram \n   salt ca 0.1 gram \n   vitamin D ca 1 mikrogram \n   kalcium ca 120 milligram \nURL: https://www.hemkop.se/produkt/Yoghurt-Naturell-101257113_ST",
+  "discription": "Creamy, slightly more acidic yoghurt with a clear yoghurt character. Acidic with selected bacterial strains giving extra clear yoghurt aroma. The yoghurt tastes as good for breakfast as snack and fits well with nuts, honey and fresh berries. With its creamy texture and clear acid, it is also great for kebab sauce, baking bread and yoghurt drinks. The brand Arla Ko guarantees that the product is made of 100% Swedish milk.\n",
+  "image_uri": "DataDb/Packages/Yoghurt/Arla-Natural-Yoghurt/Arla-Natural-Yoghurt_Iconic.jpg"
+}{
+  "type": "Packages",
+  "item": "Yoghurt",
+  "varient": "Valio-Vanilla-Yoghurt",
+  "information": "Title: Vaniljyoghurt Original 2% \nManufacturer and volume: VALIO , 1kg \nManufacturing country: Finland \nIngredients: Högpastöriserad MJÖLK, vatten, socker (5,2%) modifierad potatisstärkelse, aromer, malen vaniljstång, vaniljextrakt, yoghurtkultur, Lactobacillus acidophilus, Bifidobacterium sp. och D-vitamin.\nNutrition values per 100 gram: \n   energi ca 310 kilojoule \n   energi ca 73 kilokalori \n   fett ca 2.1 gram \n   varav mättat fett ca 1.2 gram \n   kolhydrat ca 10 gram \n   varav sockerarter ca 9.9 gram \n   protein ca 3.6 gram \n   salt ca 0.1 gram \n   vitamin D ca 1 mikrogram \n   vitamin B12 ca 0.4 mikrogram \n   kalcium ca 120 milligram \n   energi ca 310 kilojoule \n   energi ca 73 kilokalori \n   fett ca 2.1 gram \n   varav mättat fett ca 1.2 gram \n   kolhydrat ca 10 gram \n   varav sockerarter ca 9.9 gram \n   protein ca 3.6 gram \n   salt ca 0.1 gram \n   vitamin D ca 1 mikrogram \n   vitamin B12 ca 0.4 mikrogram \n   kalcium ca 120 milligram \nURL: https://www.hemkop.se/produkt/Vaniljyoghurt-Original-2procent-100300906_ST",
+  "discription": "The original! Valio's creamy vanilla yoghurt original. The yogurt is carefully sugared with 30 percent less added sugar than regular flavored yogurt. Great for both breakfast and snacks.\n",
+  "image_uri": "DataDb/Packages/Yoghurt/Valio-Vanilla-Yoghurt/Valio-Vanilla-Yoghurt_Iconic.jpg"
+}{
+  "type": "Packages",
+  "item": "Yoghurt",
+  "varient": "Yoggi-Strawberry-Yoghurt",
+  "information": "Title: Vaniljyoghurt Jordgubb 2% \nManufacturer and volume: YOGGI , 1kg \nManufacturing country: Sverige \nIngredients: MJÖLK, jordgubbar 8 %, socker 8 %, MJÖLKPROTEIN, majsstärkelse, naturlig arom, vaniljextrakt, yoghurtkultur, vitamin D. Mjölken är högpastöriserad.\nNutrition values per 100 gram: \n   energi ca 350 kilojoule \n   energi ca 80 kilokalori \n   fett ca 2 gram \n   varav mättat fett ca 1.3 gram \n   kolhydrat ca 13 gram \n   varav sockerarter ca 12 gram \n   protein ca 3.3 gram \n   salt ca 0.1 gram \n   vitamin D ca 0.93 mikrogram \nURL: https://www.hemkop.se/produkt/Vaniljyoghurt-Jordgubb-2procent-100049877_ST",
+  "discription": "Lovely creamy yoghurt rich in fruit. It is made of natural ingredients with a mild, round taste of strawberries and vanilla. Yoggi original is a pleasure that saturates and gives energy whenever you want. The taste is completely natural and it is the fruit that gives the yoghurt the fine color. The yoghurt suits the whole family and can be enjoyed at breakfast time, as a quick snack or a simple dessert. The symbol of the blueish yellow milk can guarantees 100 percent Swedish milk.\n",
+  "image_uri": "DataDb/Packages/Yoghurt/Yoggi-Strawberry-Yoghurt/Yoggi-Strawberry-Yoghurt_Iconic.jpg"
+}{
+  "type": "Packages",
+  "item": "Yoghurt",
+  "varient": "Yoggi-Vanilla-Yoghurt",
+  "information": "Title: Madagaskar Vanilj Yoghurt 2% \nManufacturer and volume: YOGGI , 1l \nManufacturing country: Sverige \nIngredients: MJÖLK, socker 8 %, MJÖLKPROTEIN, majsstärkelse, vaniljextrakt från Madagaskar 0,2 %, mald vaniljstång 0,02 %, syra (citronsyra), yoghurtkultur, vitamin D. Mjölken är högpastöriserad\nNutrition values per 100 gram: \n   energi ca 320 kilojoule \n   energi ca 80 kilokalori \n   fett ca 2 gram \n   varav mättat fett ca 1.2 gram \n   kolhydrat ca 11 gram \n   varav sockerarter ca 10 gram \n   protein ca 3.2 gram \n   salt ca 0.1 gram \n   vitamin D ca 0.93 mikrogram \nURL: https://www.hemkop.se/produkt/Madagaskar-Vanilj-Yoghurt-2procent-101024268_ST",
+  "discription": "Creamy yoghurt made of natural ingredients with mild and tender taste of real vanilla from Madagascar. The yoghurt, estimated by both small and large, can be enjoyed at breakfast time, as a quick snack or a simple dessert. It belongs to the Yoggi original family, which is Sweden's most purchased fruit yoghurt. The symbol of the blueish yellow milk can guarantees 100 percent Swedish milk.\n",
+  "image_uri": "DataDb/Packages/Yoghurt/Yoggi-Vanilla-Yoghurt/Yoggi-Vanilla-Yoghurt_Iconic.jpg"
+}{
+  "type": "Vegetables",
+  "item": "Asparagus",
+  "varient": "Asparagus",
+  "information": "Title: Asparagus Green Class 1 \nCountry and volume: Peru, 250g \nDescription: Asparagus has a mild and nice taste and is good as an accessory, as well as a vegetable dishes by itself. Asparagus can be eaten raw, but is usually cooked by boiling in lightly salted water, or grilled. Fresh asparagus is recognized on the stiffness of the stalk, and is preferably stored in refrigerator temperature. The shelf life is maximum one week in the refrigerator, or a couple of days in room temperature.\nURL: https://www.hemkop.se/produkt/Sparris-Gron-Klass-1-100771309_ST\n",
+  "discription": "Asparagus has a mild and nice taste and is good as an accessory, as well as a vegetable dishes by itself. Asparagus can be eaten raw, but is usually cooked by boiling in lightly salted water, or grilled. Fresh asparagus is recognized on the stiffness of the stalk, and is preferably stored in refrigerator temperature. The shelf life is maximum one week in the refrigerator, or a couple of days in room temperature.\n",
+  "image_uri": "DataDb/Vegetables/Asparagus/Asparagus_Iconic.jpg"
+}{
+  "type": "Vegetables",
+  "item": "Aubergine",
+  "varient": "Aubergine",
+  "information": "Title: Aubergine Class 1 \nCountry: Spain \nDescription: Aubergine, or eggplant as it is also called, is usually dark violet. It has a shiny peel and is 15-20 cm long. The pulp is white. Aubergine is always eaten cooked. In addition to Moussaka, Aubergine fits well in pots and gratins.\nURL: https://www.hemkop.se/produkt/Aubergine-Klass-1-100773272_ST\n",
+  "discription": "Aubergine, or eggplant as it is also called, is usually dark violet. It has a shiny peel and is 15-20 cm long. The pulp is white. Aubergine is always eaten cooked. In addition to Moussaka, Aubergine fits well in pots and gratins.\n\n",
+  "image_uri": "DataDb/Vegetables/Aubergine/Aubergine_Iconic.jpg"
+}{
+  "type": "Vegetables",
+  "item": "Cabbage",
+  "varient": "Cabbage",
+  "information": "Title: Cabbage White Import Class 1 \nCountry and volume: Germany, ca 2.8kg \nDescription: White cabbage can be used as a raw food, but it also fits well in for example cabbage rolls, cabbage pudding, cabbage soup, etc.\nURL: https://www.hemkop.se/produkt/Vitkal-Import-Klass-1-100152905_KG\n",
+  "discription": "White cabbage can be used as a raw food, but it also fits well in for example cabbage rolls, cabbage pudding, cabbage soup, etc.\n",
+  "image_uri": "DataDb/Vegetables/Cabbage/Cabbage_Iconic.jpg"
+}{
+  "type": "Vegetables",
+  "item": "Carrots",
+  "varient": "Carrots",
+  "information": "Title: Carrot Class 1 \nCountry and volume: The Netherlands, ca 170g \nDescription: The orange red color of the carrot comes from the high content of beta carotene, which in the body is converted into vitamin A. Tastefully, carrot is sweet, with a crunchy texture. Carrots can be eaten raw, and are also used in pots, gratins, soups and wok.\nURL: https://www.hemkop.se/produkt/Morot-Klass-1-100148868_KG\n",
+  "discription": "The orange red color of the carrot comes from the high content of beta carotene, which in the body is converted into vitamin A. Tastefully, carrot is sweet, with a crunchy texture. Carrots can be eaten raw, and are also used in pots, gratins, soups and wok.\n",
+  "image_uri": "DataDb/Vegetables/Carrots/Carrots_Iconic.jpg"
+}{
+  "type": "Vegetables",
+  "item": "Cucumber",
+  "varient": "Cucumber",
+  "information": "Title: Cucumber Class 1 \nCountry: Sweden \nDescription: Fresh cucumber. Fits well in the salad or on the sandwich.\nURL: https://www.hemkop.se/produkt/Gurka-Sverige-Klass-1-100594965_ST\n",
+  "discription": "Fresh cucumber. Fits well in the salad or on the sandwich.\n",
+  "image_uri": "DataDb/Vegetables/Cucumber/Cucumber_Iconic.jpg"
+}{
+  "type": "Vegetables",
+  "item": "Garlic",
+  "varient": "Garlic",
+  "information": "Title: Garlic Class 1 \nCountry and volume: China, ca 50g \nDescription: Garlic has unique flavor and smell, and is a good flavoring in pasta dishes, pots, mixes, etc.\nURL: https://www.hemkop.se/produkt/Vitlok-Klass-1-100148225_KG\n",
+  "discription": "Garlic has unique flavor and smell, and is a good flavoring in pasta dishes, pots, mixes, etc.\n",
+  "image_uri": "DataDb/Vegetables/Garlic/Garlic_Iconic.jpg"
+}{
+  "type": "Vegetables",
+  "item": "Ginger",
+  "varient": "Ginger",
+  "information": "Title: Ginger Class 1 \nCountry and volume: China, ca 150g \nDescription: Ginger is a herb with a characteristically sharp taste. It is used for flavoring and accessories, especially in Asian cuisine. Vegetables and curries, rice, pickles, meat and fish are good for flavoring with ginger. The rich aroma also fits well with cookies, biscuits, marmalades and sweet desserts.\nURL: https://www.hemkop.se/produkt/Ingefara-Klass-1-100147388_KG\n",
+  "discription": "Ginger is a herb with a characteristically sharp taste. It is used for flavoring and accessories, especially in Asian cuisine. Vegetables and curries, rice, pickles, meat and fish are good for flavoring with ginger. The rich aroma also fits well with cookies, biscuits, marmalades and sweet desserts.\n",
+  "image_uri": "DataDb/Vegetables/Ginger/Ginger_Iconic.jpg"
+}{
+  "type": "Vegetables",
+  "item": "Leek",
+  "varient": "Leek",
+  "information": "Title: Leek Class 1 \nCountry and volume: Sweden, ca 300g \nDescription: Leek has a slightly milder onion flavor and is preferably used for soups and pots, but can also be finely shredded into a salad. It is mainly the white part that is used, although it is fine to eat the green leaves.\nURL: https://www.hemkop.se/produkt/Purjolok-Klass-1-101249333_KG\n",
+  "discription": "Leek has a slightly milder onion flavor and is preferably used for soups and pots, but can also be finely shredded into a salad. It is mainly the white part that is used, although it is fine to eat the green leaves.\n",
+  "image_uri": "DataDb/Vegetables/Leek/Leek_Iconic.jpg"
+}{
+  "type": "Vegetables",
+  "item": "Mushroom",
+  "varient": "Brown-Cap-Mushroom",
+  "information": "Title: Forest mushroom Class 1 \nCountry: Poland\nDescription: The forest mushroom is also called chestnut mushroom, and is a brown mushroom with a fuller flavor than the white mushrooms. It can be eaten raw in for example salads, but are also good to boil, pan-fry or fry.\nURL: https://www.hemkop.se/produkt/Skogschampinjo-Klass-1-100152166_KG\n",
+  "discription": "The forest mushroom is also called chestnut mushroom, and is a brown mushroom with a fuller flavor than the white mushrooms. It can be eaten raw in for example salads, but are also good to boil, pan-fry or fry.\n",
+  "image_uri": "DataDb/Vegetables/Mushroom/Brown-Cap-Mushroom/Brown-Cap-Mushroom_Iconic.jpg"
+}{
+  "type": "Vegetables",
+  "item": "Onion",
+  "varient": "Yellow-Onion",
+  "information": "Title: Onion Yellow Class 1 \nCountry and volume: Sweden, ca 150g \nDescription: Yellow onion is a good flavoring. Fits well both cold and hot in cooking.\nURL: https://www.hemkop.se/produkt/Lok-Gul-Klass-1-100269139_KG\n",
+  "discription": "Yellow onion is a good flavoring. Fits well both cold and hot in cooking.\n",
+  "image_uri": "DataDb/Vegetables/Onion/Yellow-Onion/Yellow-Onion_Iconic.jpg"
+}{
+  "type": "Vegetables",
+  "item": "Pepper",
+  "varient": "Green-Bell-Pepper",
+  "information": "Title: Pepper Green Class 1 \nCountry and volume: The Netherlands, ca 210g \nDescription: There are a variety of colors of peppers. The most common ones are green, yellow, orange, red and white. The paprika always starts as green, but then shifts color when the it becomes more ripe. A green pepper is an unripe and hence a little firmer than the other ones, making it suitable for warm dishes, for example chili con carne, pies, gratin and various pots.\nURL: https://www.hemkop.se/produkt/Paprika-Gron-Gron-Klass-1-100149224_KG\n",
+  "discription": "There are a variety of colors of peppers. The most common ones are green, yellow, orange, red and white. The paprika always starts as green, but then shifts color when the it becomes more ripe. A green pepper is an unripe and hence a little firmer than the other ones, making it suitable for warm dishes, for example chili con carne, pies, gratin and various pots.\n",
+  "image_uri": "DataDb/Vegetables/Pepper/Green-Bell-Pepper/Green-Bell-Pepper_Iconic.jpg"
+}{
+  "type": "Vegetables",
+  "item": "Pepper",
+  "varient": "Orange-Bell-Pepper",
+  "information": "Title: Pepper Orange Class 1 \nCountry and volume: The Netherlands, ca 210g \nDescription: The orange pepper is sweeter than the green. It also contains more vitamins and antioxidants than the green. Peppers are good to eat raw in salads and as garnish, but are also good to fry, stew or gratinate, for example with filling. Paprika also fits well in pots, gratins and pies.\nURL: https://www.hemkop.se/produkt/Paprika-Orange-Klass-1-100149288_KG\n",
+  "discription": "The orange pepper is sweeter than the green. It also contains more vitamins and antioxidants than the green. Peppers are good to eat raw in salads and as garnish, but are also good to fry, stew or gratinate, for example with filling. Paprika also fits well in pots, gratins and pies.\n",
+  "image_uri": "DataDb/Vegetables/Pepper/Orange-Bell-Pepper/Orange-Bell-Pepper_Iconic.jpg"
+}{
+  "type": "Vegetables",
+  "item": "Pepper",
+  "varient": "Red-Bell-Pepper",
+  "information": "Title: Pepper Red Class 1 \nCountry and volume: The Netherlands, ca 210g \nDescription: The red peppers are much sweeter than the green ones. It also contains more vitamins and antioxidants than the green. Peppers are good to eat raw in salads and as garnish, but are also good to fry, stew or gratinate, for example. with filling. Paprika also fits well in pots, gratins and pies.\nURL: https://www.hemkop.se/produkt/Paprika-Rod-Rod-Klass-1-100149359_KG\n",
+  "discription": "The red peppers are much sweeter than the green ones. It also contains more vitamins and antioxidants than the green. Peppers are good to eat raw in salads and as garnish, but are also good to fry, stew or gratinate, for example. with filling. Paprika also fits well in pots, gratins and pies.\n",
+  "image_uri": "DataDb/Vegetables/Pepper/Red-Bell-Pepper/Red-Bell-Pepper_Iconic.jpg"
+}{
+  "type": "Vegetables",
+  "item": "Pepper",
+  "varient": "Yellow-Bell-Pepper",
+  "information": "Title: Pepper Yellow Class 1 \nCountry and volume: The Netherlands, ca 210g \nDescription: The yellow pepper is much sweeter than the green. It also contains more vitamins and antioxidants than the green. Peppers are good to eat raw in salads and as garnish, but are also good to fry, stew or gratinate, for example with filling. Paprika also fits well in pots, gratins and pies.\nURL: https://www.hemkop.se/produkt/Paprika-Gul-Gul-Klass-1-100149251_KG\n",
+  "discription": "The yellow pepper is much sweeter than the green. It also contains more vitamins and antioxidants than the green. Peppers are good to eat raw in salads and as garnish, but are also good to fry, stew or gratinate, for example with filling. Paprika also fits well in pots, gratins and pies.\n",
+  "image_uri": "DataDb/Vegetables/Pepper/Yellow-Bell-Pepper/Yellow-Bell-Pepper_Iconic.jpg"
+}{
+  "type": "Vegetables",
+  "item": "Potato",
+  "varient": "Floury-Potato",
+  "information": "Title: Potato Floury Class 1 \nCountry: Sweden\nDescription: Floury potatoes. Extra good for mashed potatoes and to press.\nURL: https://www.hemkop.se/produkt/Potatis-Mjolig-Klass-1-100150541_KG\n",
+  "discription": "Floury potatoes. Extra good for mashed potatoes and to press.\n",
+  "image_uri": "DataDb/Vegetables/Potato/Floury-Potato/Floury-Potato_Iconic.jpg"
+}{
+  "type": "Vegetables",
+  "item": "Potato",
+  "varient": "Solid-Potato",
+  "information": "Title: Potato Solid Class 1 \nCountry: Sweden\nDescription: Solid potatoes. A good allround potato that fits well most of the time.\nURL: https://www.hemkop.se/produkt/Potatis-Fast-Klass-1-100150587_KG\n",
+  "discription": "Solid potatoes. A good allround potato that fits well most of the time.\n",
+  "image_uri": "DataDb/Vegetables/Potato/Solid-Potato/Solid-Potato_Iconic.jpg"
+}{
+  "type": "Vegetables",
+  "item": "Potato",
+  "varient": "Sweet-Potato",
+  "information": "Title: Sweet potato Class 1 \nCountry and volume: USA, ca 360g \nDescription: Sweet potatoes are oblong, irregularly shaped tubers, often slightly larger than regular potatoes. The peel is light brown or red. There are two varieties, one with light pulp and one with yellow orange pulp. Sweet potatoes are used like regular potatoes, but the taste is very different. The sweet potato is very sweet and a bit softer than regular potatoes. It can also be used in desserts, pies and cakes.\nURL: https://www.hemkop.se/produkt/Sotpotatis-Klass-1-100150827_KG\n",
+  "discription": "Sweet potatoes are oblong, irregularly shaped tubers, often slightly larger than regular potatoes. The peel is light brown or red. There are two varieties, one with light pulp and one with yellow orange pulp. Sweet potatoes are used like regular potatoes, but the taste is very different. The sweet potato is very sweet and a bit softer than regular potatoes. It can also be used in desserts, pies and cakes.\n",
+  "image_uri": "DataDb/Vegetables/Potato/Sweet-Potato/Sweet-Potato_Iconic.jpg"
+}{
+  "type": "Vegetables",
+  "item": "Red-Beet",
+  "varient": "Red-Beet",
+  "information": "Title: Red beet Klass 1 \nCountry and volume: Sweden, ca 100g \nDescription: Red beets has an earthy and sweet taste and is often eaten on the side, either cooked or preserved, for example, to pölsa, pyttipanna or steak Lindström. It is also common to make Borstj, red beet soup, but the beet can also be shredded as raw food. Red beets are slightly sensitive to heat, frostbites and dehydration and should therefore be kept cool.\nURL: https://www.hemkop.se/produkt/Rodbeta-Klass-1-100151210_KG\n",
+  "discription": "Red beets has an earthy and sweet taste and is often eaten on the side, either cooked or preserved, for example, to pölsa, pyttipanna or steak Lindström. It is also common to make Borstj, red beet soup, but the beet can also be shredded as raw food. Red beets are slightly sensitive to heat, frostbites and dehydration and should therefore be kept cool.\n\n",
+  "image_uri": "DataDb/Vegetables/Red-Beet/Red-Beet_Iconic.jpg"
+}{
+  "type": "Vegetables",
+  "item": "Tomato",
+  "varient": "Beef-Tomato",
+  "information": "Title: Beef tomato Class 1 \nCountry and volume: The Netherlands, ca 200g \nDescription: An extra large tomato suitable for well for hamburgers and on the grill or in the oven.\nURL: https://www.hemkop.se/produkt/Bifftomat-Klass-1-100152488_KG\n",
+  "discription": "An extra large tomato suitable for well for hamburgers and on the grill or in the oven.\n",
+  "image_uri": "DataDb/Vegetables/Tomato/Beef-Tomato/Beef-Tomato_Iconic.jpg"
+}{
+  "type": "Vegetables",
+  "item": "Tomato",
+  "varient": "Regular-Tomato",
+  "information": "Title: Tomato Class 1 \nCountry and volume: Sweden, ca 80g \nDescription: Round and fine tomatoes from Sweden. Rinse and have in the salad or on the sandwich.\nURL: https://www.hemkop.se/produkt/Tomat-Sverige-Klass-1-100521259_KG\n",
+  "discription": "Round and fine tomatoes from Sweden. Rinse and have in the salad or on the sandwich.\n",
+  "image_uri": "DataDb/Vegetables/Tomato/Regular-Tomato/Regular-Tomato_Iconic.jpg"
+}{
+  "type": "Vegetables",
+  "item": "Tomato",
+  "varient": "Vine-Tomato",
+  "information": "Title: Vine tomato Class 1 \nCountry and volume: The Netherlands, ca 140g \nDescription: Round tomatoes with vines in the package. Rinse and have in the salad or on the sandwich.\nURL: https://www.hemkop.se/produkt/Kvisttomat-Klass-1-100152282_KG\n",
+  "discription": "Round tomatoes with vines in the package. Rinse and have in the salad or on the sandwich.\n",
+  "image_uri": "DataDb/Vegetables/Tomato/Vine-Tomato/Vine-Tomato_Iconic.jpg"
+}{
+  "type": "Vegetables",
+  "item": "Zucchini",
+  "varient": "Zucchini",
+  "information": "Title: Zucchini Class 1 \nCountry: Spain \nDescription: Zucchini can be eaten raw, but is usually used in soups, pots, stews, etc.\nURL: https://www.hemkop.se/produkt/Zucchini-Klass-1-100268130_ST\n",
+  "discription": "Zucchini can be eaten raw, but is usually used in soups, pots, stews, etc.\n",
+  "image_uri": "DataDb/Vegetables/Zucchini/Zucchini_Iconic.jpg"
+}
