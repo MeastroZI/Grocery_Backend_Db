@@ -1,10 +1,6 @@
 const fs = require('fs')
 const path = require("path")
-const { MongoClient, ServerApiVersion } = require('mongodb')
-const express = require('express')
 
-const app = express()
-const DbUrl = "mongodb+srv://MearnPrj:Mearnprj2480@mearprj.wxi9jwo.mongodb.net/?retryWrites=true&w=majority"
 
 
 
