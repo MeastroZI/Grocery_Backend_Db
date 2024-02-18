@@ -1,4 +1,4 @@
-const creatConnection = require("./creat_Connection")
+const creatConnection = require("./creat_Connection").creatConnection
 
 
 let connections = { 
