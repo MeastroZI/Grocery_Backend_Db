@@ -3,25 +3,18 @@ const Authenticate = require("../DbOperations/Authenticate").Authenticate
 const insertUser = require("../DbOperations/New_user").insertUser
 const router = express.Router()
 
-
-router.post('/login' , (req , res)=>{
-    // console.log(req.body)
+router.post('/login', (req, res) => {
     const userData = req.body.data
-
-    const isAutherize = Authenticate(userData)
 
     Authenticate(userData).then((data)=>{
         if (data) {
-            res.send("you are autherze")
+            res.send("you are authorized")
         }
-       
-        if ( !data) {
-            res.send("you are not autherize")
+        if (!data) {
+            res.send("you are not authorized")
         }
-        
     })
 })
-
 
 router.post('/signup' , (req , res)=>{
     const data = req.body.data
@@ -35,6 +28,5 @@ router.post('/signup' , (req , res)=>{
         }
     })
 })
-
 
 module.exports = router
