@@ -6,7 +6,7 @@ const router = express.Router()
 router.post('/login', (req, res) => {
     // console.log(req.body)
     const userData = req.body.data
-    const isAutherize = Authenticate(userData)
+    const isAuthorized = Authenticate(userData)
 
     Authenticate(userData).then((data)=>{
         if (data) {
