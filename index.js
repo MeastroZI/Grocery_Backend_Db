@@ -1,4 +1,3 @@
-// const getConnections = require("./DbOperations/get_Connections") 
 const express = require('express')
 require('dotenv').config();
 const userRouter = require("./routes/user")
