@@ -1,21 +1,17 @@
-// const getConnections = require("./DbOperations/get_Connections") 
-const fs = require('fs')
-const path = require("path")
 const express = require('express')
-const app = express ()
-const port = 3000
-const userRouter = require("./Routers/User_oprs")
+const userRouter = require("./routes/user")
+
+const app = express()
+const PORT = 3000;
 
 app.use(express.json());
 app.use('/user' , userRouter)
 app.use('/DataDb' ,express.static("./DataDb") )
-app.get('/' , (req , res)=>{
-    res.send("hello gois this is home page")
+
+app.get('/' , (req , res) => {
+    res.send('Home Page');
 })
 
-
-app.listen(port, ()=>{
-    console.log(`server is running on port ${port}`)
+app.listen(PORT, () => {
+    console.log(`Server is running on port ${PORT}`);
 })
-
-
