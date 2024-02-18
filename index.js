@@ -1,20 +1,15 @@
-const getConnections = require("./DbOperations/get_Connections") 
-const fs = require('fs')
-const path = require("path")
-const express = require('express')
-const app = express ()
-const port = 3000
-const userRouter = require("./Routers/User_oprs")
+const express = require('express');
+const app = express();
+const userRouter = require('./routes/user');
 
+const PORT = 3000;
 
-app.use('/user' , userRouter)
-app.get('/' , (req , res)=>{
-    res.send("hello gois this is home page")
+app.use('/user' , userRouter);
+
+app.get('/' , (req , res) => {
+    res.send('Home Page');
 })
 
-
-app.listen(port, ()=>{
-    console.log(`server is running on port ${port}`)
+app.listen(PORT, () => {
+    console.log(`Server is running on port ${PORT}`);
 })
-
-
