@@ -1,9 +1,10 @@
 // const getConnections = require("./DbOperations/get_Connections") 
+require('dotenv').config();
 const fs = require('fs')
 const path = require("path")
 const express = require('express')
 const app = express ()
-const port = 3000
+const port = process.env.PORT
 const userRouter = require("./Routers/User_oprs")
 
 app.use(express.json());

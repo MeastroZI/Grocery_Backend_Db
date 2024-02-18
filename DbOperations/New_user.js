@@ -1,3 +1,26 @@
-import { getConnection } from "./get_Connections";
+const getConnection = require("./get_Connections").getConnection
 const client = getConnection()
-const Dbv = client.db()
+const Db = client.db('Main')
+const coll = Db.collection('Mearn_Prj')
+
+
+async function insertUser(Detail) {
+    if (Detail )  {
+        let result
+        try { 
+
+            result = await coll.insertOne(Detail)
+        }catch (err) { 
+            console.log(err)
+        }
+        console.log(result)
+        if (result.acknowledged) {
+            
+            return true
+        }
+    }
+    return false
+
+}
+
+module.exports={insertUser}

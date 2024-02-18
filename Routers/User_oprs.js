@@ -1,6 +1,6 @@
 const express = require ("express")
 const Authenticate = require("../DbOperations/Authenticate").Authenticate
-
+const insertUser = require("../DbOperations/New_user").insertUser
 const router = express.Router()
 
 
@@ -23,8 +23,17 @@ router.post('/login' , (req , res)=>{
 })
 
 
-router.get('/SiginUp' , (req , res)=>{
-    //calling the newuser function 
+router.post('/signup' , (req , res)=>{
+    const data = req.body.data
+    console.log(data)
+    insertUser(data).then((ret)=>{
+        if (ret){
+            res.send("data inserted succfully")
+        }
+        else {
+            res.send("Something is wrong")
+        }
+    })
 })
 
 

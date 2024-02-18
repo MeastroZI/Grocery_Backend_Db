@@ -7,7 +7,7 @@ const express = require('express')
 /*************************DB Connection********************* */
 
 const app = express()
-const uri= "mongodb+srv://MearnPrj:Mearnprj2480@mearprj.wxi9jwo.mongodb.net/?retryWrites=true&w=majority"
+const uri= process.env.DB_URI
 
 function creatConnection () { 
     const client = new MongoClient(uri,  {
