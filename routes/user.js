@@ -1,6 +1,7 @@
 const express = require ("express")
-const Authenticate = require("../DbOperations/Authenticate").Authenticate
-const insertUser = require("../DbOperations/New_user").insertUser
+const Authenticate = require("../middleware/authenticate").Authenticate
+const insertUser = require("../services/user/new_user").insertUser
+
 const router = express.Router()
 
 router.post('/login', (req, res) => {
