@@ -1,10 +1,8 @@
-const getConnections = require("./get_Connections").getConnection
-
+const getConnections = require("../services/db/get_Connections").getConnection
 
 const client = getConnections()
 const DB = client.db("Main")
 const collection = DB.collection('Mearn_Prj')
-const query = ""
 
 async function Authenticate(Detail) {
     const uname = Detail.username
@@ -18,13 +16,7 @@ async function Authenticate(Detail) {
     if (document.password.trim() != Detail.password.trim()) {
         return false
     }
-
-
-
-
-
 }
-
 
 async function getUserData(Uname) {
     let document
@@ -37,9 +29,6 @@ async function getUserData(Uname) {
     // console.log(document)
     return document
 }
-
-
-
 
 module.exports = {
     Authenticate
