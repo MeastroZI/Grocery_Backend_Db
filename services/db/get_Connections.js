@@ -4,12 +4,12 @@ let connections = {
     connection : null
 }
 
-function getConnection(){
+ function getConnection(){
     if (connections.connection != null) { 
         return connections.connection
     }
     else {
-        connections.connection = createConnection()
+        connections.connection =  createConnection()
         return connections.connection
     }
 }

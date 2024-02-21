@@ -26,7 +26,7 @@ function createConnection () {
         }
     }
     run().catch(console.dir);
-
+    
     return client
 }
 

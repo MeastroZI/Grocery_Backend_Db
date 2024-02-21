@@ -1,5 +1,6 @@
 const getConnection = require("../db/get_Connections").getConnection
 const client = getConnection()
+
 const Db = client.db('Main')
 const coll = Db.collection('Mearn_Prj')
 
@@ -13,9 +14,11 @@ async function insertUser(Detail) {
         }
         console.log(result)
         if (result.acknowledged) {
+            
             return true
         }
     }
+    
     return false
 }
 
