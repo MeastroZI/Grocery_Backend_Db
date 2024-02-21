@@ -1,4 +1,4 @@
-const getConnections = require("../services/db/get_Connections").getConnection
+const getConnections = require("./get_Connections").getConnection
 
 const client = getConnections()
 const DB = client.db("Main")
@@ -11,15 +11,15 @@ async function Authenticate(Detail) {
     if (document) {
 
         if (document.password.trim() === Detail.password.trim()) {
-            return true
+            return {exist : true , data : document}
         }
 
         if (document.password.trim() != Detail.password.trim()) {
-            return false
+            return {exist : false}
         }
     }
     else {
-        return false
+        return {exist : false}
     }
 }
 
@@ -36,5 +36,5 @@ async function getUserData(Uname) {
 }
 
 module.exports = {
-    Authenticate
+    Authenticate :Authenticate
 }

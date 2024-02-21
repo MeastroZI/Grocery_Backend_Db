@@ -18,7 +18,8 @@ async function getGcData(param ) {
     result.forEach(elm => {
         elm.image_uri = process.env.HOST + elm.image_uri
     });
-    console.log(result)
+    // console.log(result)
+    return result
 }
 
 
