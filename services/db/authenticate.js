@@ -7,7 +7,7 @@ const collection = DB.collection('Mearn_Prj')
 async function Authenticate(Detail) {
     const uname = Detail.username
     const document = await getUserData(uname)
-    
+    // console.log(document)
     if (document) {
 
         if (document.password.trim() === Detail.password.trim()) {

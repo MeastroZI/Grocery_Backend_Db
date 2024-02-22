@@ -20,11 +20,11 @@ router.get('/getgcdata' , (req , res)=>{
         obj.type = req.query.type
     }
     num = req.query.num?parseInt(req.query.num) : 5
-
+    // console.log(obj)
     // console.log(obj)
     // console.log(typeof(num))
     getGcData(obj , num).then((data)=>{
-        console.log(typeof(data))
+        // console.log(typeof(data))
         console.log(data)
         res.json(data)
 
