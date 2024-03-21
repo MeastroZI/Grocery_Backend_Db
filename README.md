@@ -46,7 +46,7 @@ Regular users can perform the following actions:
 - Vinit Pandit
 - Virender Singh Rathore
 - Suhani Shah
-- Shivanshu Kuman
+- Shivanshu Kumar
 - Sapna Chaudhary
 
 Create file `.env` and insert the following code. Replace the values with your credentials
